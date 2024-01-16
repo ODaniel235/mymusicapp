@@ -1,5 +1,4 @@
-//Creating an array containing music links, image links and texts links for the music app to be responsive
-//I preferably use arrays instead of API's to make the web more responsive
+
 const musicArray = [
   {},
   {
