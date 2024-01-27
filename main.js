@@ -1,4 +1,4 @@
-
+*/Creating a music array */
 const musicArray = [
   {},
   {
